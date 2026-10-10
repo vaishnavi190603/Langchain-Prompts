@@ -1,0 +1,10 @@
+HumanMessage(content = "Write a short poem about the rainy season."),
+
+AIMessage(content = """
+    Rain drops dance upon the ground,
+    A soothing melody all around.
+    Clouds roll by in shades of gray,
+    Washing all our cares away.
+    The earth awakens, fresh and green,
+    Welcoming the beauty of the rainy season.
+""")
